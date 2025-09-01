@@ -1,0 +1,6 @@
+@TemperaturyWebApi_HostAddress = http://localhost:5234
+
+GET {{TemperaturyWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
